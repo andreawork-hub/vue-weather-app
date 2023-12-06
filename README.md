@@ -2,11 +2,11 @@
 
 📗 Table of Contents
 
-📖 [About the Project](#about-the-project)  
-🛠 [Built With](#built-with)  
-🚀 [Live Demo](#live-demo)  
-💻 [Getting Started](#getting-started)  
-👥 [Authors](#authors)  
+📖 [About the Project](##about-the-project)  
+🛠 [Built With](##built-with)  
+🚀 [Live Demo](##live-demo)  
+💻 [Getting Started](##getting-started)  
+👥 [Authors](##authors)  
 
 ## 📖 About the Project
 
